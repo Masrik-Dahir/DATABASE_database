@@ -2,7 +2,7 @@
 [![Java_ant CI](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/java_ant.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/java_ant.yml)
 [![Laravel](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/laravel.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/laravel.yml)
 [![Python Package using Conda](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/python-package-conda.yml)
-[![Python Package using Conda](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/python-package-conda.yml)
+[![Node.js CI](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/node_js.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/node_js.yml)
 [![CodeQL](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/codeql-analysis.yml)
 
 DATABASE is an application that monitors the current state of the equity market, crypto market,
