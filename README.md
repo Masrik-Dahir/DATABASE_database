@@ -1,5 +1,7 @@
 # DATABASE
 [![Java_ant CI](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/java_ant.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/java_ant.yml)
+[![Laravel](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/laravel.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/laravel.yml)
+
 
 DATABASE is an application that monitors the current state of the equity market, crypto market,
 and futures contract market and documents past transactions. DATABASE uses its vibrant
