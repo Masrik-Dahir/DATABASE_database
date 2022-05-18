@@ -25,10 +25,10 @@ jobs:
       - run: python Python/ETF/GOOGL.py; 
       - run: python Python/ETF/MSFT.py; 
       - run: python Python/Cryptocurrency/BTC.py; 
-      - run: Python/Cryptocurrency/ETH.py; 
-      - run: Python/Cryptocurrency/SOL.py; 
-      - run: Python/Index/ABCERI.py; 
-      - run: Python/Index/BGCI.py; 
-      - run: Python/Index/NDX.py; 
-      - run: Python/Mutual Fund/AGTHX.py;
+      - run: python Python/Cryptocurrency/ETH.py; 
+      - run: python Python/Cryptocurrency/SOL.py; 
+      - run: python Python/Index/ABCERI.py; 
+      - run: python Python/Index/BGCI.py; 
+      - run: python Python/Index/NDX.py; 
+      - run: python Python/Mutual Fund/AGTHX.py;
       
