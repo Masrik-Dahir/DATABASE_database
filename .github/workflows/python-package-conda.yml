@@ -20,4 +20,15 @@ jobs:
         with:
           python-version: ${{ matrix.python-version }}
           architecture: x64
-      - run: python Python/ETF/AAPL.py; python Python/ETF/GOOGL.py; python Python/ETF/MSFT.py; python Python/Cryptocurrency/BTC.py; Python/Cryptocurrency/ETH.py; Python/Cryptocurrency/SOL.py; Python/Index/ABCERI.py; Python/Index/BGCI.py; Python/Index/NDX.py; Python/Mutual Fund/AGTHX.py;
+      - run: chmod 777 Python/*;
+      - run: python Python/ETF/AAPL.py; 
+      - run: python Python/ETF/GOOGL.py; 
+      - run: python Python/ETF/MSFT.py; 
+      - run: python Python/Cryptocurrency/BTC.py; 
+      - run: Python/Cryptocurrency/ETH.py; 
+      - run: Python/Cryptocurrency/SOL.py; 
+      - run: Python/Index/ABCERI.py; 
+      - run: Python/Index/BGCI.py; 
+      - run: Python/Index/NDX.py; 
+      - run: Python/Mutual Fund/AGTHX.py;
+      
