@@ -1,4 +1,5 @@
 from random import random
+import main
 
 i = 0
 name = "AAPL" # main.random_string(5)
