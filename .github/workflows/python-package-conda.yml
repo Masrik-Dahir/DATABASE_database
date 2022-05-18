@@ -31,4 +31,10 @@ jobs:
       - run: python Python/Index/BGCI.py; 
       - run: python Python/Index/NDX.py; 
       - run: python "Python/Mutual Fund/AGTHX.py";
+      - run: python "Python/Mutual Fund/ENPSX.py";
+      - run: python "Python/Mutual Fund/FXAIX.pyy";
+      - run: python Python/Option/AAPL.py; 
+      - run: python Python/Option/MSFT.py; 
+      - run: python Python/Option/OIL.py; 
+      
       
