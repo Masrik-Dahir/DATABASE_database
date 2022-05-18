@@ -1,7 +1,9 @@
 # DATABASE
 [![Java_ant CI](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/java_ant.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/java_ant.yml)
 [![Laravel](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/laravel.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/laravel.yml)
-
+[![Python Package using Conda](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/python-package-conda.yml)
+[![Python Package using Conda](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/python-package-conda.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/python-package-conda.yml)
+[![CodeQL](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/Masrik-Dahir/DATABASE_database/actions/workflows/codeql-analysis.yml)
 
 DATABASE is an application that monitors the current state of the equity market, crypto market,
 and futures contract market and documents past transactions. DATABASE uses its vibrant
