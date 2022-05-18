@@ -1,0 +1,2 @@
+DELETE FROM Users WHERE email_address = 'dahirma@vcu.edu';
+INSERT into Users (email_address, password, first_name, last_name, date_of_birth) VALUES ('dahirma@vcu.edu', '12345', 'Masrik', 'Dahir', '2022-01-02');
